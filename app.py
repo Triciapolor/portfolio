@@ -34,7 +34,7 @@ custom_section_html = """
     </style>
     <div class='custom-section'>
         <h2>Daniella Edokpolor</h2>
-        <p>Data Analyst</p>
+        <p>Commercial Analyst | Salesforce Specialist</p>
     </div>
 """
 
