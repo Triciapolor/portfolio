@@ -13,7 +13,7 @@ with col1:
 custom_section_html = """
     <style>
     .custom-section {
-        background: linear-gradient(to right, #83a4d4, #b6fbff); /* Ombre effect from blue to light blue */
+        background: linear-gradient(to right, #83a4d4, #b6fbff); /* Ombre effect from pink to light pink */
         padding: 20px;
         text-align: center;
         border-radius: 10px; /* Rounded corners */
